@@ -1,2 +1,5 @@
-# Shopping-Intention-Predictor
-Analysis and prediction of online shoppers’ purchasing intention using various algorithms
+# Analysis and prediction of online shoppers’ purchasing intention using various algorithms
+<p>Domain: Marketing and Retail Analytics</p>
+<p>Skills: Decision Trees, Logistic Regression, Principal Component Analysis, Random Forest, TABLEAU</p>
+<p>Description: <li>The goal is to build a predictive machine learning model that could categorize users as either, revenue generating, and non-revenue generating based on their behavior while navigating a website. In order to predict the purchasing intention of the visitor, aggregated page view data kept track during the visit along with some session is used and user information as input to machine learning algorithms. Oversampling/Undersampling and feature selection techniques are applied to improve the success rates and scalability of the models.</li>
+<li>Our analysis shows that it is possible to predict a site visitors buying behavior within a certain level of confidence based on the features we were able to pull from the data set. Considering the real time usage of the proposed system, achieving better or similar classification performance with minimal subset of features is an important factor for the e-commerce companies since a smaller number of features will be kept track during the session. XGBoost model turned out to be the best model overall.</li></p>
